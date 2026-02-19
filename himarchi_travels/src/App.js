@@ -5,14 +5,14 @@ import AboutUs from './Pages/AboutUs/AboutUs';
 import Gallary from './Pages/Gallary/Gallary';
 import ContactUs from './Pages/ContactUs/ContactUs';
 import Services from './Pages/Services/Services';
-import {BrowserRouter, Routes, Route} from 'react-router-dom';
+import {HashRouter, Routes, Route} from 'react-router-dom';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       
-      <BrowserRouter>
+      <HashRouter>
 
         <Navbar/>
 
@@ -24,7 +24,7 @@ function App() {
                 <Route path="/Services" element={<Services />}/>   
         </Routes>
 
-      </BrowserRouter>
+      </HashRouter>
 
       
     </div>
