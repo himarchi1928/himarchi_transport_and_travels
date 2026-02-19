@@ -1,6 +1,7 @@
 {
   "name": "himarchi_travels",
   "version": "0.1.0",
+  "homepage": "https://himarchi1928.github.io/himarchi_transport_and_travels",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",
