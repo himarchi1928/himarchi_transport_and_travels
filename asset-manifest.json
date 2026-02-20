@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/himarchi_transport_and_travels/static/css/main.ac082d9c.css",
-    "main.js": "/himarchi_transport_and_travels/static/js/main.3946e306.js",
+    "main.js": "/himarchi_transport_and_travels/static/js/main.856a642d.js",
     "static/js/453.cf69fa01.chunk.js": "/himarchi_transport_and_travels/static/js/453.cf69fa01.chunk.js",
     "index.html": "/himarchi_transport_and_travels/index.html",
     "main.ac082d9c.css.map": "/himarchi_transport_and_travels/static/css/main.ac082d9c.css.map",
-    "main.3946e306.js.map": "/himarchi_transport_and_travels/static/js/main.3946e306.js.map",
+    "main.856a642d.js.map": "/himarchi_transport_and_travels/static/js/main.856a642d.js.map",
     "453.cf69fa01.chunk.js.map": "/himarchi_transport_and_travels/static/js/453.cf69fa01.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac082d9c.css",
-    "static/js/main.3946e306.js"
+    "static/js/main.856a642d.js"
   ]
 }
